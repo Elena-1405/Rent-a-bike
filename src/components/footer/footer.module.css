@@ -1,0 +1,16 @@
+.footer {
+	min-height: 50px;
+	background: rgb(58, 120, 99);
+	color: #fff;
+	display: flex;
+    position:relative;
+	padding: 0 20px;
+	align-items: center;
+}
+
+.txt {
+    text-align: center;
+    display:flex;
+    margin:0 auto;
+	
+}
